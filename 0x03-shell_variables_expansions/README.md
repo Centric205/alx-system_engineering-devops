@@ -1,5 +1,5 @@
 #TASK ON:
 	- Shell
 	- init files
-	- Variables
+	- Variables and,
 	- Expansions
